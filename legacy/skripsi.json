@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "skripsi-300504",
+  "private_key_id": "7f99a27dd9ac9fad887f6ecab6422605e6e510dd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDENqthpppeKoVW\nib8ptB9rxK+oCbvgP+6LNf5cCVJQd41idgVu72GUUa3SungeslCPz+0k1fL/pnpA\nTGGfNG6bllRZHYovjNBFrJ26/sgUTeu8XIf1cTFeVfOJqM2RcJLKe0/QcYF6OAR+\nPAi92MnlvGIj2Zu317QulyGAA4/Um0QEyTnZ82DjykpZKlUowy+9sY34ukyppdM8\nosTI8W6bOYz4F37CmzvwKlBIgskZpEhOAucdnnj0BvukZCNbFX2rrIQxJ8WBaOLP\nHAtiFe6WDompg4Dqbhx1wq98q7SEg72oQgHStv7pUvgEfiURlzqkkcWmcEsCk3Ns\npF046WBVAgMBAAECggEADZse4jwbyzjWmywdGea4IRB3/8aBBSlZwMSDOV2aHCNW\nJgQ6Fzm5QgAx9gFhL/u8c2R/NMUzPwALzSaexFvt6ZMQkUdnnCl/Db3NCDj/pczL\ncnnWIbJyMnDyXNLcQmAUhb7sR29/g3qb8Sb3kjaUtX4NLiA6WJK4F1z6gTZ+BEeK\n5b/LFhZUcVDMz2HcGdBGCEZP6acVMEgjNUNkxiaCf7WVIMcoOh0MQhbFPX5pZFzs\nfmeLb5ggD9IP6Pgt5pfmhkAIb/OHSgrHLLsmRFTMyz/pLzlKmVrK55tOPJ4xc6+M\nCcldt1JMPVsMuByE62kcgf6iN9vUuxbzJcE+d5iGcQKBgQDlxbYD38uNJvtndi6b\nFuMEoDvbQ/l4hsOJUnwVN8R/Iho+3s3BZiZ0Wihn2EssSU2uBZ6mEfFY+4JVglje\nJgnMWpWlGACAwI+Ij6NKNm0A7gdmB26GbEYkYAlFXA5WBIAN9jLnHCBY6Mf6GtGI\nwcVihNgG207nHPSIxjvBSjRzDQKBgQDanFJXBcPAffTRlR+G04X9ZiosuQji0X6G\nj7uYznoLmToSZRg5RqPoj3/gJIbgvAqBpbQAMylT6WoMHrclZHz/WyQu8xMzbWO/\nZCdTuAj3kWYsuR9+jfabl/rTGyeMFE7ZOLKNDmi01j/ltY3LmzfWbZF0vudV0Yc+\nbp45eTLwaQKBgEKnBrS6/64Th8wscTqV+gbGgHaLkluPJDu6jLoO8lY6y0g/k4ot\nmqwX1y7AhJX1Ma5wfOQJwmwgkV9Cr4rJmAAKquw4OTUgJsLjf+ewQBCL++Nx9nLS\nB8rXfPj8yj/TkF38dCmsdAm2hQQdMXktVJfOl2ftyEaslJb0gjMA1pQlAoGAWgsd\nVz7GnFjFKDZWIACsJe2Y3YbxhAtqJB671HrnhjN82erOCXlxNe81aqtg6txJL5GD\nDLoGAcwYpBlasoorejqeMsBoXjxmY4TrNe6NsvsurKkrscLjmr8Ez0NWDLqop4xU\n7wjKVAITm5gmaYDrhOTojr+7JXwCStLhVSb4tlECgYEAzETqUEZ2y+4Gy2jwZUl7\nLzsAXahHcv/g4D07e3DvKYZ9K5zyRennGHzU2Zqm7wpZ7YbfdzoEDPE4qrixwpfN\nepSBfQ7TOFtahXdZoQZdbttY7TA2YdbruUBysR0shUiKuB1sFb61zDSSV7owYdQf\n1PVSXzOSDSioO34Fc92fChA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dede98@skripsi-300504.iam.gserviceaccount.com",
+  "client_id": "103283028264097539314",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dede98%40skripsi-300504.iam.gserviceaccount.com"
+}
