@@ -1,3 +1,7 @@
+#UTF-8
+#THIS F*CKIN  CODE DOESN'T WORKS, SUCKERS.TRY THE NEXT ONE FU*K
+
+#import sendSMS
 import numpy as np
 import cv2
 from base64 import b64encode, b64decode
